@@ -1,0 +1,46 @@
+body
+{
+    background-image: url('CON.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navigation
+{
+    text-align: center;
+}
+a 
+{
+    display:list-item;
+    padding: 8px 16px;
+    margin: 5px;
+    border: 2px solid purple;
+    color:lightcoral;
+    background-color:grey;
+}
+h1
+{
+    color:palevioletred;
+    text-align: center;
+}
+h2{
+    color:palevioletred;
+    align-items: left;
+    font-size: 25px;
+    margin-left: 100px;
+}
+p
+{
+    color:aliceblue;
+    font-size: 20px;
+    align-items: left;
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+footer
+{
+    background-color:yellowgreen;
+    text-align: center;
+    color: white;
+    height: 25px;
+    font-size: larger;
+}

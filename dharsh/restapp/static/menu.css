@@ -1,0 +1,53 @@
+body
+{
+    background-image: url('CON.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navigation
+{
+    text-align: center;
+}
+a 
+{
+    display:list-item;
+    padding: 8px 16px;
+    margin: 5px;
+    border: 2px solid purple;
+    color:lightcoral;
+    background-color:grey;
+}
+h2 {
+    text-align: center;
+    font-size: 40px;
+    color:blueviolet;
+}
+.menubox {
+    display: flex;
+    gap: 20px;
+    width: 150%;
+    margin-left: 80px;
+    margin-bottom: 120px;
+}
+
+.food {
+    background-color: plum;
+    padding: 5px;
+    text-align: center;
+    border-radius: 8px;
+    
+}
+
+.food img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+}
+footer
+{
+    background-color:yellowgreen;
+    text-align: center;
+    color: white;
+    height: 25px;
+    font-size: larger;
+}
